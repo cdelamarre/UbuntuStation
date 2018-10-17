@@ -5,6 +5,10 @@
 sudo apt-get install sshfs
 sshfs  cdelamarre@mustang.fcsystem.com:/home/fcs/ ~/fcs/
 ```
+### montage automatique avec Autofs
+Regarder le point 6 Autofs
+<https://doc.ubuntu-fr.org/sshfs>
+
 ## Capture d'ecran 
 ```
 sudo apt install flameshot
