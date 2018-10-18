@@ -1,0 +1,2 @@
+- Installer les extensions VSCode
+- Installer les filtres Thunderbird
